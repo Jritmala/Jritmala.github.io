@@ -13,7 +13,7 @@ h1 {
 }
 
 .banner img { 
-    max-width: 100%;
+    width: 100%;
 }
 
 .row {
@@ -39,9 +39,9 @@ a:link, a:visited {
 
 @media only screen and (max-width: 600px) {
     .navbar-nav.navbar-center {
-        position: static;   
+        position: static;    
     }
-    
+
     .banner img {
         height: 200px; 
     }
